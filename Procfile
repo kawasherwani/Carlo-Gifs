@@ -1,1 +1,1 @@
-worker: node plkiramis.js
+worker: node index.js
