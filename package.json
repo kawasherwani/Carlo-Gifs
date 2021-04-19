@@ -2,9 +2,9 @@
   "name": "discordjs-bot-mrbaro",
   "version": "1.0.0",
   "description": "Komut İşleyicisi Kullanan bir Discord.js botu",
-  "main": "node index.js",
+  "main": "node max.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node max.js"
   },
   "dependencies": {
     "express": "^4.17.1",
