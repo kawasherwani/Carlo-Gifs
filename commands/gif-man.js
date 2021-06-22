@@ -26,18 +26,12 @@ exports.conf = {
 
   guildOnly: false,
 
-  aliases: ['gif-man','man-gif','gifman','mangif'],
-
-  permLevel: 0
+  aliases: ['gif-man','man-gif','gifman','mangif']
 
 };
 
 exports.help = {
 
-  name: 'man',
-
-  description: 'Darknes Code',
-
-  usage: 'man'
+  name: 'man'
 
 };
