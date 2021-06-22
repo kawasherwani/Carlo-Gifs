@@ -14,12 +14,9 @@ module.exports.run = async (bot, message, args) => {
 exports.conf = {
   enabled: true,
   guildOnly: false,
-  aliases: ['gif-woman','woman-gif','gifwoman','womangif'],
-  permLevel: 0
+  aliases: ['gif-woman','woman-gif','gifwoman','womangif']
 };
 
 exports.help = {
-  name: 'woman',
-  description: 'Rastgele gif atar.',
-  usage: 'woman'
+  name: 'woman'
 };
