@@ -3,8 +3,8 @@ exports.run = (client, message) => {
   const Embed = new Discord.MessageEmbed()
   .setColor("BLUE")
   .setTimestamp()
-  .setDescription(`gif`)
-  
+  .setDescription(`this is all command gifs`)
+  .addField("","``, ")
   message.channel.send(Embed)
 }
 exports.conf = {
