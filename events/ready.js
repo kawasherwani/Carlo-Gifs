@@ -4,11 +4,8 @@ const prefix = process.env.PREFIX;
 module.exports = client => {
   client.user.setStatus("online");
   var oyun = [
-    "Discord Bot Developer qmi <3",
-    "KayıtBot Altyapı | Ace Bots",
-    "Discord Bot Development",
-    "yt/ikrudka",
-    "https://discord.gg/TGDNRDW"
+    "The developers"
+    
   ];
 
   setInterval(function() {
