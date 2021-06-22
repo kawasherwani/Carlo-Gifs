@@ -1,18 +1,18 @@
 {
-  "name": "discordjs-bot-mrbaro",
-  "version": "1.0.0",
-  "description": "Komut İşleyicisi Kullanan bir Discord.js botu",
-  "main": "node max.js",
+  "name": "The Developers",
+  "version": "2.0.0",
+  "description": "The Developers gifs bot",
+  "main": "node bot.js",
   "scripts": {
-    "start": "node max.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "express": "^4.17.1",
     "fs": "0.0.2",
-    "moment": "^2.26.0",
+    "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
     "os": "^0.1.1",
-    "discord.js": "^12.2.0"
+    "discord.js": "^12.5.3"
   },
   "engines": {
     "node": "12.x"
