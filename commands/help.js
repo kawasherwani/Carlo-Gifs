@@ -4,7 +4,7 @@ exports.run = (client, message) => {
   .setColor("RANDOM")
   .setDescription(`this is all command gifs`)
   .addField("**Info**","`help`, `ping`, `invite`")
- .addField("**Gifs**","`mangif`, `womangif`, `couplegif`, `babygif`, `animegif`, `animalgif`, `randomgif`, `randompp`")
+ .addField("**Gifs**","`mangif`, `womangif`, `couplegif`, `babygif`, `animegif`, `animalgif`, `marvelgif`, `randomgif`, `randompp`")
   message.channel.send(Embed)
 }
 exports.conf = {
