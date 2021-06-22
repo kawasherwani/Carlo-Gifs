@@ -4,7 +4,7 @@ exports.run = (client, message) => {
   .setColor("BLUE")
   .setTimestamp()
   .setDescription(`this is all command gifs`)
-  .addField("","``, ")
+  .addField("**Gifs**","``, ``, ``, ``")
   message.channel.send(Embed)
 }
 exports.conf = {
