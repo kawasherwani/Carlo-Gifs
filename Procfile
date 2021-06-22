@@ -1,1 +1,1 @@
-worker: node max.js
+worker: node bot.js
