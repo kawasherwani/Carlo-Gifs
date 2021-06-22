@@ -31,8 +31,7 @@ exports.conf = {
 
   enabled: true,
   guildOnly: false,
-  aliases: ['randomgif'],
-  permLevel: 0
+  aliases: ['randomgif']
 
 };   // Code Universe
   
