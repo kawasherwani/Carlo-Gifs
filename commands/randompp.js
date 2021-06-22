@@ -10,13 +10,9 @@ exports.run = (client, message) => {
 exports.conf = {
   enabled: true,
   guildOnly: false,
-  aliases: ["random-pp"],
-  kategori: "Bot",
-  permLevel: 0
+  aliases: ["random-pp"]
 };
 
 exports.help = {
-  name: 'randompp',
-  description: 'Bot ile ilgili bilgi verir.',
-  usage: 'bilgi'
+  name: 'randompp'
 };
